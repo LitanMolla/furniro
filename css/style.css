@@ -310,6 +310,22 @@ a{
     content: "";
     transform: translate(-50%, -50%);
 }
+
+.pShowmore{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 65px;
+}
+
+.pShowmore a{
+    font-size: 16px;
+    font-weight: 600;
+    color: #B88E2F;
+    border-color: #B88E2F;
+    border-width: 1px;
+    border-style: solid;
+    padding: 10px 77px;
+}
 /* products Part End */
 
 
